@@ -1,16 +1,23 @@
 
 <p align="left"> 
-
   <img alt="Top Langs" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=01554&theme=transparent">
   <img alt="github stats"  height="200px"  src="https://github-readme-stats.vercel.app/api?username=01554&theme=transparent&show_icons=true">
 </p>
 
 
 <p align="left"> 
-<img alt="Top Langs" height="200px" src="https://github-profile-trophy.vercel.app/?username=01554&theme=transparent&column=8">
+<img height="200px" src="https://github-profile-trophy.vercel.app/?username=01554&theme=transparent&column=8">
 </p>
 
 
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=01554&theme=transparent
+)
+
+<p align="left"> 
+<img height="200px" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=01554&theme=transparent&exclude=python">
+<img height="200px" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=01554&theme=transparent&exclude=python">
+</p>     
 
 <!--
 ### Hi there 👋
