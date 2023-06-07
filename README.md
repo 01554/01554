@@ -1,3 +1,12 @@
+<p align="left">
+  <a href="https://github.com/01554/01554/">
+    <img src="https://komarev.com/ghpvc/?username=01554" alt="01554" />
+  </a>
+  <a href="https://github.com/01554">
+    <img height="20" src="https://img.shields.io/github/followers/01554?label=follow&logo=github&style=flat" />
+  </a>
+</p>
+
 
 <p align="left"> 
   <img alt="Top Langs" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=01554&theme=transparent">
