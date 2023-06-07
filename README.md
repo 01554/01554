@@ -1,6 +1,20 @@
-### Hi there 👋
+
+<p align="left"> 
+
+  <img alt="Top Langs" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=01554&theme=gruvbox">
+  <img alt="github stats"  height="200px" width="600px" src="https://github-readme-stats.vercel.app/api?username=01554&theme=gruvbox&show_icons=true">
+</p>
+
+
+<p align="left"> 
+<img alt="Top Langs" height="200px" src="https://github-profile-trophy.vercel.app/?username=01554&theme=onedark&column=8">
+</p>
+
+
 
 <!--
+### Hi there 👋
+
 **01554/01554** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
