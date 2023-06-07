@@ -1,13 +1,13 @@
 
 <p align="left"> 
 
-  <img alt="Top Langs" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=01554&theme=gruvbox">
-  <img alt="github stats"  height="200px"  src="https://github-readme-stats.vercel.app/api?username=01554&theme=gruvbox&show_icons=true">
+  <img alt="Top Langs" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=01554&theme=transparent">
+  <img alt="github stats"  height="200px"  src="https://github-readme-stats.vercel.app/api?username=01554&theme=transparent&show_icons=true">
 </p>
 
 
 <p align="left"> 
-<img alt="Top Langs" height="200px" src="https://github-profile-trophy.vercel.app/?username=01554&theme=onedark&column=8">
+<img alt="Top Langs" height="200px" src="https://github-profile-trophy.vercel.app/?username=01554&theme=transparent&column=8">
 </p>
 
 
