@@ -1,4 +1,10 @@
 <p align="left">
+  <img height="120px" src="./openbadge/AI応用基礎レベル2022_image.png" alt="AI応用基礎レベル2022" />
+  <img height="120px" src="./openbadge/VBAエキスパート Excel VBA Standard_image.png" alt="VBAエキスパート Excel VBA Standard" />
+</p>
+
+
+<p align="left">
   <a href="https://github.com/01554/01554/">
     <img src="https://komarev.com/ghpvc/?username=01554" alt="01554" />
   </a>
@@ -28,10 +34,6 @@
 <img height="200px" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=01554&theme=transparent&exclude=python">
 </p>     
 
-<p align="left">
-  <img height="120px" src="./openbadge/AI応用基礎レベル2022_image.png" alt="AI応用基礎レベル2022" />
-  <img height="120px" src="./openbadge/VBAエキスパート Excel VBA Standard_image.png" alt="VBAエキスパート Excel VBA Standard" />
-</p>
 
 <!--
 ### Hi there 👋
